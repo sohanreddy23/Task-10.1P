@@ -20,9 +20,10 @@ function Last(props){
           <button className="button">Find dev</button>
         </div>
       </div>
-      <div className="section">
-        <div className="heading">Stay Connected</div>
-      </div>
+      <div className = 'section'>
+      <div className="heading">Stay Connected</div>
+      <img src={ require('/Users/sohanreddy/task-4.1p/src/img02.jpeg') } alt='' width ='150' height='150'/>
+    </div>
       <div className="section">
                 <div >DEVlink</div>
                 <div>

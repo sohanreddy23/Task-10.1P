@@ -20,6 +20,7 @@ function deve (cus ){
           logo = {cus.logo}
           name = {cus.name}
           Description = {cus.Description}
+          rating={cus.rating}
       />
     )}
          

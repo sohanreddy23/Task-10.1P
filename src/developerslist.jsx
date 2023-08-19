@@ -20,6 +20,7 @@ function deve (dev ){
           image = {dev.image}
           name = {dev.name}
           Description = {dev.Description}
+          rating = {dev.rating}
       />
     )}
          

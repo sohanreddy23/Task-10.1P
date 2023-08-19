@@ -6,6 +6,7 @@ import See from './seemore'
 import Customerslist from './customerslist'
 import Seeall from './seeall'
 import Last from './last'
+
 function App() {
   return (
     <div>
@@ -16,6 +17,7 @@ function App() {
     <Customerslist />
     <Seeall />
     <Last />
+    
     </div>
   );
 }
